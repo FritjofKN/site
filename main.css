@@ -141,6 +141,10 @@ a:hover {
 	margin:0;
 }
 
+.subheading {
+	margin-bottom:0.6em;
+}
+
 .heading, .heading a {
 	color:#000;
 	text-decoration:none;
